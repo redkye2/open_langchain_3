@@ -23,7 +23,7 @@ https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
 ![ 2가지 체인 사진 ](assets/2.png)
 bert-base-multilingual-uncased모델을 HuggingFaceEmbeddings을 이용해 임베딩에 사용했다.
 
-![ 결과 사진 ](assets/3.png)    ![ 비교 사진 ](assets/4.PNG)
+![ 결과비교 사진 ](assets/3.png)    
 왼쪽은 흥부와 놀부 PDF를 추가해서 mistralai/Mistral-7B-Instruct-v0.1모델에 질의응답한 사진이며,
 오른쪽은 챗GPT 3.5에 별다른 질문없이 질의 응답한 사진입니다.
 두 사진을 비교해보면 왼쪽은 질의에 정확한 답(놀부)을 한 반면에 오른쪽 챗GPT는 오답(흥부아냐 혹은 흥부)을 내놨다.
